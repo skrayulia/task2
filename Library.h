@@ -9,7 +9,7 @@ class Library
 	string title;
     string author;
     string genre;
-    int balance = 2;
+    int balance = 3;
     int date = 14;
 
  
@@ -45,7 +45,7 @@ class Library
 	
 	void plus()
 	{
-    	balance += 1;
+    	balance += 2;
     	cout << "One book " << title << " returned" << endl;
 	}
 	
