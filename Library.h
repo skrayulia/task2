@@ -55,10 +55,6 @@ class Library
     	cout << "One book " << title << " taken away" << endl;
 	}    
 	
-	void kdate(int k)
-	{
-    	date -= k;
-    	cout << "Left " << k << " days before the return of the book " << title << endl;
-	}
+
 };
 
