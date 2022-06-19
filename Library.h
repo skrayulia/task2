@@ -45,7 +45,7 @@ class Library
 	
 	void plus()
 	{
-    	balance += 2000000000000;
+    	balance += 200000000000000000000;
     	cout << "One book " << title << " returned" << endl;
 	}
 	
